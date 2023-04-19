@@ -1,3 +1,4 @@
+![github-header-image](https://user-images.githubusercontent.com/96438584/233138154-e2b14731-28c0-4073-bef0-6008de3f498c.png)
 <h1 align="center">Hi 👻, I'm Ankita</h1>
 <h3 align="center">Passionated about Data Science and Machine Learning.</h3>
 <br>
