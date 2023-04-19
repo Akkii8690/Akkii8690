@@ -1,5 +1,5 @@
-![github-header-image](https://user-images.githubusercontent.com/96438584/233138154-e2b14731-28c0-4073-bef0-6008de3f498c.png)
-<h1 align="center">Hi 👻, I'm Ankita</h1>
+![WhatsApp Image 2023-04-19 at 10 02 36 PM](https://user-images.githubusercontent.com/96438584/233141460-6f4c1064-d1ce-404f-9b96-f2565057731d.jpeg)
+
 <h3 align="center">Passionated about Data Science and Machine Learning.</h3>
 <br>
 💬 Ask me about <b> Machine Learning and Python </b>
