@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👻, I'm Ankita</h1>
-<h3 align="center">A passionate about Data Science.</h3>
+<h3 align="center">Passionated about Data Science and Machine Learning.</h3>
+- 💬 Ask me about **Machine Learning and Python**
+
+- 📫 How to reach me **gupta.1811.ankita@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1mSuZNtF95lPRGWMC1gQaNSixVd09rwCe/view?usp=sharing](https://drive.google.com/file/d/1mSuZNtF95lPRGWMC1gQaNSixVd09rwCe/view?usp=sharing)
+
 <img align="right" alt= "cooking🌮" width= "600" src="https://www.google.com/logos/doodles/2017/celebrating-50-years-of-kids-coding-5745168905928704-2xa.gif"
 <a></a> 
  <a href= "https://drive.google.com/file/d/1mSuZNtF95lPRGWMC1gQaNSixVd09rwCe/view?usp=sharing"><img align="left" alt= "📰" width= "50" src="https://www.clipartmax.com/png/middle/308-3085721_resume-png-clipart-my-resume-icon-png.png"></a><br>
