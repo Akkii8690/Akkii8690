@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👻, I'm Ankita</h1>
 <h3 align="center">Passionated about Data Science and Machine Learning.</h3>
-- 💬 Ask me about <b> Machine Learning and Python </b>
-
-- 📫 How to reach me **gupta.1811.ankita@gmail.com**
+💬 Ask me about <b> Machine Learning and Python </b>
+📫 How to reach me **gupta.1811.ankita@gmail.com**
 
 
 <img align="right" alt= "cooking🌮" width= "600" src="https://www.google.com/logos/doodles/2017/celebrating-50-years-of-kids-coding-5745168905928704-2xa.gif">
 <a></a> 
- <a href= "https://drive.google.com/file/d/1mSuZNtF95lPRGWMC1gQaNSixVd09rwCe/view?usp=sharing"><img align="left" alt= "📰" width= "50" src="https://www.clipartmax.com/png/middle/308-3085721_resume-png-clipart-my-resume-icon-png.png"></a><br>
+ <a href= "https://drive.google.com/file/d/1mSuZNtF95lPRGWMC1gQaNSixVd09rwCe/view?usp=sharing"><b>Resume</b><img align="left" alt= "📰" width= "50" src="https://www.clipartmax.com/png/middle/308-3085721_resume-png-clipart-my-resume-icon-png.png"></a><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/akkii8690/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akkii8690/" height="30" width="40" /></a>
