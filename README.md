@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👻, I'm Ankita</h1>
 <h3 align="center">A passionate about Data Science.</h3>
 <img align="right" alt= "cooking🌮" width= "400" src="https://www.google.com/logos/doodles/2017/celebrating-50-years-of-kids-coding-5745168905928704-2xa.gif"
-<a href="https://drive.google.com/file/d/1mSuZNtF95lPRGWMC1gQaNSixVd09rwCe/view?usp=sharing" target="_blank" rel="noreferrer"> Resume <img align="left" alt= "📰" width= "40" src="https://www.clipartmax.com/png/middle/308-3085721_resume-png-clipart-my-resume-icon-png.png"><br>
+     <a href="https://drive.google.com/my-resume"><img src="https://www.clipartmax.com/png/middle/308-3085721_resume-png-clipart-my-resume-icon-png.png"></a><br>
+
+<a href= "https://drive.google.com/file/d/1mSuZNtF95lPRGWMC1gQaNSixVd09rwCe/view?usp=sharing"> Resume <img align="left" alt= "📰" width= "30" src="https://www.clipartmax.com/png/middle/308-3085721_resume-png-clipart-my-resume-icon-png.png"><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/akkii8690/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akkii8690/" height="30" width="40" /></a>
