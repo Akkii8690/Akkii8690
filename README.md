@@ -5,7 +5,7 @@
 📫 How to reach me <b>gupta.1811.ankita@gmail.com</b>
 
 
-<img align="right" alt= "cooking🌮" width= "600" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
+<img align="right" alt= "cooking🌮" width= "400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
 <a></a> 
  <a href= "https://drive.google.com/file/d/1mSuZNtF95lPRGWMC1gQaNSixVd09rwCe/view?usp=sharing"><b>Resume</b><img align="left" alt= "📰" width= "50" src="https://www.clipartmax.com/png/middle/308-3085721_resume-png-clipart-my-resume-icon-png.png"></a><br>
 <h3 align="left">Connect with me:</h3>
