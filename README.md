@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👻, I'm Ankita</h1>
 <h3 align="center">Passionated about Data Science and Machine Learning.</h3>
-💬 Ask me about <b> Machine Learning and Python </b>
-📫 How to reach me **gupta.1811.ankita@gmail.com**
+💬 Ask me about <b> Machine Learning and Python </b><
+
+📫 How to reach me <b>gupta.1811.ankita@gmail.com</b>
 
 
 <img align="right" alt= "cooking🌮" width= "600" src="https://www.google.com/logos/doodles/2017/celebrating-50-years-of-kids-coding-5745168905928704-2xa.gif">
