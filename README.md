@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👻, I'm Ankita</h1>
 <h3 align="center">Passionated about Data Science and Machine Learning.</h3>
-💬 Ask me about <b> Machine Learning and Python </b>
+<br><br>
+💬 Ask me about <b> Machine Learning and Python </b><br><br>
 
 📫 How to reach me <b>gupta.1811.ankita@gmail.com</b>
 
 
-<img align="right" alt= "cooking🌮" width= "400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"><br><br><br>
-<a></a> 
+<img align="right" alt= "cooking🌮" width= "300" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"><br><br><br>
+
  <a href= "https://drive.google.com/file/d/1mSuZNtF95lPRGWMC1gQaNSixVd09rwCe/view?usp=sharing"><b>Resume</b><img align="left" alt= "📰" width= "50" src="https://www.clipartmax.com/png/middle/308-3085721_resume-png-clipart-my-resume-icon-png.png"></a><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
